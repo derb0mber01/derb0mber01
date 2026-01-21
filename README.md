@@ -1,40 +1,28 @@
 Hi, I’m derb0mber
 
-I’m a Product & Business Growth Analyst with a background in architecture, focused on understanding product usage, user behavior, and business performance through data.
-
-My Focus:
-
-- Product usage & user behavior analysis
-
-- Funnels, retention, cohorts, and growth metrics
-
-- Business and product performance insights
-
-- Experimentation framing and metric interpretation
+A Product & Business Growth Analyst with a background in architecture, focused on understanding product usage, user behavior, and growth metrics to inform better product and business decisions.
 
 Technical Skills:
 
-- Excel
+  - Excel
 
-- SQL
+  - SQL
 
-- Python
+  - Python
 
-- Power BI
+  - Power BI
 
 Projects:
 
 My repositories contain applied analytics case studies using real-world and generated datasets, including:
 
-- Job market & labor trends
+  - Job market & labor trends
 
-- Commerce & logistics analytics
+  - Commerce & logistics analytics
 
-- Healthcare data exploration
+  - Healthcare data exploration
 
-- Product-style analytics projects (usage, retention, growth)
-
-Each project emphasizes clear logic, thoughtful metric selection, and actionable insights rather than tool-heavy implementations.
+  - Product-style analytics projects (usage, retention, growth)
 
 Reach me at nonfungibleudo@gmail.com
 
