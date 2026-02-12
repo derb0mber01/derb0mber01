@@ -12,6 +12,10 @@ Technical Skills:
 
   - Power BI
 
+  - n8n
+
+  - DuckDB
+
 Projects:
 
 My repositories contain applied analytics case studies using real-world and generated datasets, including:
