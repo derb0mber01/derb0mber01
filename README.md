@@ -39,7 +39,10 @@ An automated retention system that predicts customer attrition using behavioral 
 * **Healthcare Data Exploration:** Analyzing patient outcomes and operational bottlenecks.
 
 
-* **Email:** nonfungibleudo@gmail.com
+
+
+
+**Email:** nonfungibleudo@gmail.com
 
 <!---
 derb0mber01/derb0mber01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
